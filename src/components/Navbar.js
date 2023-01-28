@@ -23,7 +23,7 @@ const Navbar = () => {
         },
         {
             id: 4,
-            link: 'Skils',
+            link: 'Skills',
             links:"/#skils"
         },
         {
@@ -52,7 +52,7 @@ const Navbar = () => {
             </li>
             <li  className='px-4 cursor-pointer text-gray-500 hover:scale-105 duration-200'>
             {/* <HashLink to="#home">Home </HashLink> */}
-            <a href='/#Skils'>Skills</a>
+            <a href='/#Skills'>Skills</a>
             </li>
             <li  className='px-4 cursor-pointer text-gray-500 hover:scale-105 duration-200'>
             {/* <HashLink to="#home">Home </HashLink> */}

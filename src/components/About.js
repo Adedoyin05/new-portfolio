@@ -18,7 +18,7 @@ const About = () => {
             Hello,I'm Adedoyin Adebajo Motunrayo.
             I am a Frontend Software Developer that specializes in buliding creative and intuitive frontend web applications.
             I have been working as web Developer for 2 years.
-            i am also learning Back-End Development and looking forward to be a full Stack web Developer.
+            i am also learning Back-End Development and looking forward to be a full  Stack web Developer.
            
           </p>
   

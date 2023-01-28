@@ -55,7 +55,7 @@ const Experience = () => {
     ];
   
     return (
-      <section id="Skils">
+      <section id="Skills">
         <div
         name="experience"
         className="bg-gradient-to-b from-gray-800 to-black w-full pt-[20px] "
