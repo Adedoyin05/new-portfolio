@@ -25,7 +25,7 @@ const About = () => {
           <br />
   
           <p className="text-xl">
-          If am to introduce myself in 7 words.
+          If i yam to introduce myself in 7 words.
           It will be Responsible, creative, open-minded, friendly and ambitious web developer.
           This is how I see myself, and hope you will give me a chance to prove my words.
           </p>
