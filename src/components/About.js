@@ -16,18 +16,18 @@ const About = () => {
   
           <p className="text-xl mt-20">
             Hello,I'm Adedoyin Adebajo Motunrayo.
-            I am a Frontend Software Developer that specializes in buliding craetive and intuitive frontend web applications.
+            I am a Frontend Software Developer that specializes in buliding creative and intuitive frontend web applications.
             I have been working as web Developer for 2 years.
-            i am also learning Back-End Development and looking forward to be a full  Stack web Developer.
+            i am also learning Back-End Development and looking forward to be a full Stack web Developer.
            
           </p>
   
           <br />
   
           <p className="text-xl">
-          If i yam to introduce myself in 7 words.
+          If i am to introduce myself in 7 words.
           It will be Responsible, creative, open-minded, friendly and ambitious web developer.
-          This is how I see myself, and hope you will give me a chance to prove my words.
+          This is how I see myself, and i hope you will give me a chance to prove my words.
           </p>
         </div>
       </div>
